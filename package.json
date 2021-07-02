@@ -1,0 +1,29 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raul051/JsTest.git"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Raúl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raul051/JsTest/issues"
+  },
+  "homepage": "https://github.com/raul051/JsTest#readme",
+  "devDependencies": {
+    "babel-jest": "^27.0.6",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^27.0.6"
+  }
+}
