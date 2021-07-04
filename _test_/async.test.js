@@ -10,6 +10,7 @@ describe('Probar Asinc/Await', () => {
         });
         await getDataFromAPI(getRick).then(data => {
             expect(data.name).toEqual('Rick Sanchez');
+        
         });
     });
 })
